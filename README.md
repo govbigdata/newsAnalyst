@@ -2,7 +2,7 @@
 ===========
 <h3>Tips：</h3>
 项目需要下载一些开源库，请在下面的链接中进行下载并把其中的文件和文件夹解压到检出目录的lib文件夹中
-<a href="http://pan.baidu.com/s/1bnszFQZ">点击转到“百度网盘”下载</a>
+<a href="http://pan.baidu.com/s/1bnszFQZ" target="_blank">点击转到“百度网盘”下载</a>
 <br/>
 
 <h3>工作进度：</h3>
