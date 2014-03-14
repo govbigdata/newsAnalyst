@@ -4,7 +4,7 @@ public class Article {
 	private String no;
 	private String time;
 	private String title;
-	private String body;
+	private String content;
 
 	public String getNo() {
 		return no;
@@ -22,12 +22,12 @@ public class Article {
 		this.title = title;
 	}
 
-	public String getBody() {
-		return body;
+	public String getContent() {
+		return content;
 	}
 
-	public void setBody(String body) {
-		this.body = body;
+	public void setContent(String content) {
+		this.content = content;
 	}
 
 	public String getTime() {
@@ -41,7 +41,7 @@ public class Article {
 	@Override
 	public String toString() {
 		return "编号：" + no + "\n刊登时间：" + time + "\n标题：" + title + "\n正文：\n"
-				+ body;
+				+ content;
 	}
 
 }
